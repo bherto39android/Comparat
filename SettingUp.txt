@@ -1,0 +1,7 @@
+
+You must be connected to the internet to access our git repo: https://github.com/bherto39android/Comparat
+
+to do this (in windows):
+1. download and install http://windows.github.com/
+2. create an account in git
+3. 
